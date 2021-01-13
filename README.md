@@ -1,6 +1,6 @@
 ### Hi there 👋
-🚀 I’m currently working on data analysis using Riot API data
-📫 Leadership, Research, Service- if you have any questions, don't hesitate to reach out!
+✈️🚀🛰️ From hypersonics to satellites, I'm working on some cool aerospace projects
+📫 If you have any questions, don't hesitate to reach out!
 
 <!--
 **karlroush/karlroush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
