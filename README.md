@@ -8,7 +8,7 @@
 
 📫 If you have any questions, don't hesitate to reach out!
 
-<br/>
+
 [🌐 https://karlroush.com/](https://karlroush.com/)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Karl_Roush?label=Follow)](https://twitter.com/Karl_Roush)
