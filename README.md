@@ -8,8 +8,10 @@
 
 📫 If you have any questions, don't hesitate to reach out!
 
+//
 [![Twitter Follow](https://img.shields.io/twitter/follow/Karl_Roush?label=Follow)](https://twitter.com/Karl_Roush)
 [![Linkedin: Karl Roush](https://img.shields.io/badge/-Karl%20Roush-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karl-roush/)](https://www.linkedin.com/in/karl-roush/)
+
 [🌐 https://karlroush.com/](https://karlroush.com/)
 
 <!--![Profile views](https://gpvc.arturio.dev/karlroush)-->
