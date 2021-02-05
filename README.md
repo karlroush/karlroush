@@ -6,7 +6,7 @@
 -->
 
 
-📫 If you have any questions, don't hesitate to reach out!
+<!-- 📫 If you have any questions, don't hesitate to reach out! -->
 
 //
 
