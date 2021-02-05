@@ -1,7 +1,9 @@
 ### Hi there 👋
 ✈️🚀🛰️ From hypersonics to satellites, I'm working on some cool aerospace projects
 
+<!-- 
 <img src="https://github-readme-stats.vercel.app/api?username=karlroush&&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97">
+-->
 
 
 📫 If you have any questions, don't hesitate to reach out!
