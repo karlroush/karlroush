@@ -1,10 +1,10 @@
 ### Hi there 👋
 ✈️🚀🛰️ From hypersonics to satellites, I'm working on some cool aerospace projects
 
-📫 If you have any questions, don't hesitate to reach out!
-
 <img src="https://github-readme-stats.vercel.app/api?username=karlroush&&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97">
 
+
+📫 If you have any questions, don't hesitate to reach out!
 [![Twitter Follow](https://img.shields.io/twitter/follow/Karl_Roush?label=Follow)](https://twitter.com/Karl_Roush)
 [![Linkedin: Karl Roush](https://img.shields.io/badge/-Karl%20Roush-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karl-roush/)](https://www.linkedin.com/in/karl-roush/)
 ![Profile views](https://gpvc.arturio.dev/karlroush)
