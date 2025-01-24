@@ -8,12 +8,13 @@
 
 📫 If you have any questions, don't hesitate to reach out
 
-//
-
-[🌐 https://karlroush.com/](https://karlroush.com/)   
-[![Twitter Follow](https://img.shields.io/twitter/follow/Karl_Roush?label=Follow)](https://twitter.com/Karl_Roush)
-[![Linkedin: Karl Roush](https://img.shields.io/badge/-Karl%20Roush-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karl-roush/)](https://www.linkedin.com/in/karl-roush/)
-
+<!--// [🌐 https://karlroush.com/](https://karlroush.com/)-->
+[![Firefox](https://img.shields.io/badge/Web-karlroush.com-whitesmoke?logo=Firefox&logoColor=white)](https://karlroush.com/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&link=https://www.linkedin.com/in/karl-roush/)](https://www.linkedin.com/in/karl-roush/)
+[![Bluesky](https://img.shields.io/badge/follow-@karlroush.bsky.social-whitesmoke?style=social&logo=bluesky)](https://bsky.app/profile/karlroush.bsky.social)
+<!--
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)](https://bsky.app/profile/karlroush.bsky.social)
+-->
 
 <!--![Profile views](https://gpvc.arturio.dev/karlroush)-->
 
