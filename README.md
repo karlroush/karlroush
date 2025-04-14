@@ -1,5 +1,4 @@
-### Hi there 👋
-✈️🚀🛰️ Currently working to return humans to the moon, but you can catch me working on AI/ML to hypersonics!
+### ✈️🚀🛰️ Currently working to return humans to the Moon!
 
 <!-- 
 <img src="https://github-readme-stats.vercel.app/api?username=karlroush&&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97">
